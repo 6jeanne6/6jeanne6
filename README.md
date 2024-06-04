@@ -2,11 +2,13 @@
 - 🌱 I’m currently learning C at 42
 - 👀 I’m interested in improving my coding skills and logic through Python and C languages 
 
-##Current projects
-<p align="center"width="100%"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" align="center"></img></a><a href="https://github.com/6jeanne6/pipex">
+## Current projects
+<p align="center"width="100%">
+<a href="url">
+<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" align="center"></img></a><a href="https://github.com/6jeanne6/pipex">
 </p>
 
-Projets valides
+## Validated projects
 <p align="center"width="100%">
 <a href="url">
 <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" align="center"></img></a><a href="https://github.com/6jeanne6/Libft">
