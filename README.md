@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning C at 42
 - 👀 I’m interested in improving my coding skills and logic through Python and C languages 
 
-##Current projects
+## Current projects
 <p align="center"width="100%"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" align="center"></img></a><a href="url">
 </p>
 
