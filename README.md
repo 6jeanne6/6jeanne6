@@ -5,7 +5,7 @@
 ## Current projects
 <p align="center"width="100%">
 <a href="url">
-<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" align="center"></img></a><a href="https://github.com/6jeanne6/pipex">
+<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" align="center"></img></a><a>
 </p>
 
 ## Validated projects
@@ -17,4 +17,5 @@
 <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png" align="center"></img></a><a href="url">
 <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png" align="center"></img></a><a href="https://github.com/6jeanne6/push_swap">
 <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png" align="center"></img></a><a href="https://github.com/6jeanne6/so_long">
+<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" align="center"></img></a><a href="https://github.com/6jeanne6/pipex">
 </p>
