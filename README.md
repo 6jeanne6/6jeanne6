@@ -5,12 +5,11 @@
 ## Current projects
 <p align="center"width="100%">
 <a href="url">
-<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" align="center"></img></a><a>
+<a href="https://github.com/6jeanne6/minishell/tree/main"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" align="center"></img></a>
 </p>
 
-## Validated projects
+## An overview of my 42 projects
 <p align="center"width="100%">
-<a href="url">
 <a href="https://github.com/6jeanne6/Libft"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/ft_printf"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfm.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/get_next_line"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" align="center"></img></a>
