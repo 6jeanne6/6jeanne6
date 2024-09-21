@@ -1,4 +1,4 @@
-- 👋 Hello there, I'm @6jeanne6
+- 👋 Hello there, I'm Jeanne
 - 🌱 I’m currently learning C at 42
 - 👀 I’m interested in improving my coding skills and logic through Python and C languages 
 
