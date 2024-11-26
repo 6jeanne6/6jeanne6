@@ -19,3 +19,7 @@
 <a href="https://github.com/6jeanne6/minishell/tree/main"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/philosophers"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" align="center"></img></a>
 </p>
+
+## ⚙️ Tools 
+
+![Langage C](https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white)
