@@ -24,3 +24,4 @@
 ## ⚙️ Tools 
 
 ![Langage C](https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white)
+![Langage C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
