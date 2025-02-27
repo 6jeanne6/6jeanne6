@@ -20,5 +20,12 @@
 
 ## ⚙️ Tools 
 
-![Langage C](https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white)
-![Langage C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+<!--![Langage C](https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white)
+![Langage C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)-->
+<p align="center"width="100%">
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/C/C.png" align="center" width="200"></img>
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Python/Python.png" align="center" width="200"></img>
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/C%2B%2B/C%2B%2B.png" align="center" width="200"></img>
+</p>
+
+*Logos drawn by Sawaratsuki*
