@@ -5,7 +5,7 @@
 ## Current projects
 <p align="center"width="100%">
 <a href="url">
-<a href="https://github.com/6jeanne6/cpp_modules"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" align="center"></img></a>
+<a href="https://github.com/6jeanne6/unknown"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_ircm.png" align="center"></img></a>
 </p>
 
 ## An overview of my 42 projects
@@ -16,6 +16,7 @@
 <a href="https://github.com/6jeanne6/pipex"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/minishell/tree/main"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/cub3d"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" align="center"></img></a>
+<a href="https://github.com/6jeanne6/cpp_modules"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" align="center"></img></a>
 </p>
 
 ## ⚙️ Tools 
