@@ -4,8 +4,8 @@
 
 ## Current projects
 <p align="center"width="100%">
-<a href="url">
-<a href="https://github.com/6jeanne6/unknown"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_ircm.png" align="center"></img></a>
+<a href="https://github.com/6jeanne6/ft_irc">
+<a href="https://github.com/6jeanne6/ft_irc"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_ircm.png" align="center"></img></a>
 </p>
 
 ## An overview of my 42 projects
