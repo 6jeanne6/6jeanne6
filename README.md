@@ -4,8 +4,6 @@
 
 ## Current projects
 <p align="center"width="100%">
-<a href="https://github.com/Christellaa/irc">
-<a href="https://github.com/Christellaa/irc"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_ircm.png" align="center"></img></a>
 <a href=""><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png" align="center"></img></a>
 </p>
 
@@ -18,6 +16,7 @@
 <a href="https://github.com/6jeanne6/minishell/tree/main"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/cub3d"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/cpp_modules"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" align="center"></img></a>
+<a href="https://github.com/Christellaa/irc"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_ircm.png" align="center"></img></a>
 </p>
 
 ## ⚙️ Tools 
