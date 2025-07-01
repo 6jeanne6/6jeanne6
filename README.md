@@ -1,5 +1,5 @@
-## 👋 Hello there, I'm Jeanne
-I'm a software engineer student and have graduated with a Digital Marketing Master's degree in ESCE Business School.
+## 👋 Welcome there
+I'm Jeanne, I'm a curious and versatile software engineer student and have graduated with a Digital Marketing Master's degree in ESCE Business School.
 
 Today I am looking for opportunities in cybersecurity to challenge my technical skills and my logical mindset.
 
