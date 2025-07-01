@@ -18,7 +18,7 @@ Today I am looking for opportunities in cybersecurity to challenge my technical 
 
 #### Tools
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -31,12 +31,8 @@ Today I am looking for opportunities in cybersecurity to challenge my technical 
 
 ### 📚 An overview of my past projects
 <p align="center"width="100%">
-<a href="https://github.com/6jeanne6/Libft"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/push_swap"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png" align="center"></img></a>
-<a href="https://github.com/6jeanne6/so_long"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png" align="center"></img></a>
-<a href="https://github.com/6jeanne6/pipex"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/minishell/tree/main"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" align="center"></img></a>
-<a href="https://github.com/6jeanne6/cub3d"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/cpp_modules"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" align="center"></img></a>
 <a href="https://github.com/Christellaa/irc"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_ircm.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/inception"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png" align="center"></img></a>
