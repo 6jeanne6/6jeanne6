@@ -7,8 +7,6 @@ Today I am looking for opportunities in cybersecurity to challenge my technical 
 
 ### ⚙️ Tech & Tools
 
-<!--![Langage C](https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white)
-![Langage C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)-->
 #### Languages
 <p align="center"width="100%">
 <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/C/C.png"  width="200"></img>
@@ -26,7 +24,7 @@ Today I am looking for opportunities in cybersecurity to challenge my technical 
 
 ### 🔨 Current projects
 <p align="center"width="100%">
-<a href="https://github.com/6jeanne6/inception"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencen.png" align="center"></img></a>
+<a href=""><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencen.png" align="center"></img></a>
 </p>
 
 ---
