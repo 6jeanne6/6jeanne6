@@ -24,15 +24,6 @@ Today I am looking for opportunities in cybersecurity to challenge my technical 
 
 ---
 
-### 🔍 You can find me on
-<p align="center"width="100%">
-<a href="https://www.root-me.org/Red-Beryl">
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQHuDFDdqFIuNg/company-logo_200_200/company-logo_200_200/0/1704489634414/root_me_logo?e=2147483647&v=beta&t=TuJ42pi2_tL-vS8De0n7wLrdVlCOtnIe-rvmhdWOCR0" width="100"/>
-</a>
-</p>
-
----
-
 ### 🔨 Current projects
 <p align="center"width="100%">
 <a href="https://github.com/6jeanne6/inception"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencen.png" align="center"></img></a>
