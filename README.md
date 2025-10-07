@@ -24,7 +24,7 @@ Today I am looking for opportunities in cybersecurity to challenge my technical 
 
 ### 🔨 Current projects
 <p align="center"width="100%">
-<a href=""><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencen.png" align="center"></img></a>
+<a href="https://github.com/Naphiye/transcendance"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencen.png" align="center"></img></a>
 </p>
 
 ---
