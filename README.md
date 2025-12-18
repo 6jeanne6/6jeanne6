@@ -8,13 +8,13 @@ Today I am looking for opportunities in cybersecurity to challenge my technical 
 ### ⚙️ Tech & Tools
 
 #### Languages
-<p align="center"width="100%">
+<div align="center"width="100%">
   
 <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/C/C.png"  width="200"></img>
 <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Python/Python.png"  width="200"></img>
 <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/C%2B%2B/C%2B%2B.png"  width="200"></img>
 
-</p>
+</div>
 
 *Logos drawn by [Sawaratsuki](https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos)*
 
