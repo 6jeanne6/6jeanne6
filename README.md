@@ -23,17 +23,25 @@ Today I am looking for opportunities in cybersecurity to challenge my technical 
 ---
 
 ### 🔨 Current projects
-<p align="center"width="100%">
-<a href="https://github.com/Naphiye/transcendance"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencen.png" align="center"></img></a>
-</p>
+
+<div align="center">
+  
+| Projects | Description |
+|--------|-------------|
+| [CTF writeups](https://github.com/6jeanne6/CTF-Writeups) | Writeups of CTF I have participated in |
+
+</div>
 
 ---
 
 ### 📚 An overview of my past projects
 <p align="center"width="100%">
+  
 <a href="https://github.com/6jeanne6/push_swap"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/minishell/tree/main"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/cpp_modules"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" align="center"></img></a>
 <a href="https://github.com/6jeanne6/inception"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png" align="center"></img></a>
 <a href="https://github.com/Christellaa/irc"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_ircm.png" align="center"></img></a>
+<a href="https://github.com/Naphiye/transcendance"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencen.png" align="center"></img></a>
+
 </p>
