@@ -1,7 +1,9 @@
 ## 👋 Welcome there
-I'm Jeanne, I'm a curious and versatile software engineer student.
+I'm Jeanne, a curious and versatile software engineer student with a strong interest in cybersecurity, especially for its technical challenges and logical problem-solving aspects.
 
-Today I am looking for opportunities in cybersecurity to challenge my technical skills and my logical mindset.
+I enjoy investigating complex issues and collaborating with others, something that I've enjoyed through my 4 CTFs experiences, including one focused on OSINT. These challenges allowed me to sharpen both my investigative skills and my ability to work effectively in a team.
+
+Today I am actively seeking for opportunities in cybersecurity to further develop my technical skills, deepen my expertise and contribute to concrete projects.
 
 ---
 
