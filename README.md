@@ -1,28 +1,32 @@
 ## 👋 Welcome there
-I'm Jeanne, a curious and versatile software engineer student with a strong interest in cybersecurity, especially for its technical challenges and logical problem-solving aspects.
 
-I enjoy investigating complex issues and collaborating with others, something that I've enjoyed through my 4 CTFs experiences, including one focused on OSINT. These challenges allowed me to sharpen both my investigative skills and my ability to work effectively in a team.
+<div align="center"width="100%">
 
-Today I am actively seeking for opportunities in cybersecurity to further develop my technical skills, deepen my expertise and contribute to concrete projects.
+I'm Jeanne, a **curious and adaptable** software engineer student with a strong interest in cybersecurity, especially for its technical challenges and logical problem-solving aspects.
+
+I enjoy **investigating complex issues and collaborating with others**, as I did during **my 4 CTFs experiences, including one focused on OSINT**. These challenges allowed me to sharpen **both my investigative mindset and my ability to work effectively in a team**.
+
+At 42, I had the opportunity to practice through hands-on projects. These experiences enabled me to apply various programming languages such as *C, C++, Typescript*, and **hone my approach to technical issues**. 
+
+Today I am actively seeking for opportunities in **Forensics** to deepen my expertise and contribute to concrete projects.
+
+✉ **Let's stay in contact :**  jewu@student.42.fr 
+
+</div>
 
 ---
 
 ### ⚙️ Tech & Tools
 
-#### Languages
 <div align="center"width="100%">
-  
-<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/C/C.png"  width="200"></img>
-<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Python/Python.png"  width="200"></img>
-<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/C%2B%2B/C%2B%2B.png"  width="200"></img>
 
-</div>
+#### Languages
 
-*Logos drawn by [Sawaratsuki](https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos)*
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 #### Tools
-
-<div align="center">
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
