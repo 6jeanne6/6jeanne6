@@ -2,15 +2,19 @@
 
 <div align="center"width="100%">
 
-I'm Jeanne, a **curious and adaptable** software engineer student with a strong interest in cybersecurity, especially for its technical challenges and logical problem-solving aspects.
+I'm Jeanne, a **curious and adaptable** software engineer student with a strong interest in full-stack development and cybersecurity.
 
 I enjoy **investigating complex issues and collaborating with others**, as I did during **my 4 CTFs experiences, including one focused on OSINT**. These challenges allowed me to sharpen **both my investigative mindset and my ability to work effectively in a team**.
 
-At 42, I had the opportunity to practice through hands-on projects. These experiences enabled me to apply various programming languages such as *C, C++, Typescript*, and **hone my approach to technical issues**. 
+At 42, I gained **hands-on experience through concrete projects**, using languages such as *C, C++, and Typescript*. This school's ecosystem constantly **pushes you to learn, adapt and think rigorously - both independently and in collaboration with your peers**.
 
-Today I am actively seeking for opportunities in **Forensics** to deepen my expertise and contribute to concrete projects.
+My latest **group project**, *ft_transcendence*, is a **full-stack web application** featuring multiple services, including a Pong game and a customizable user profile page. The **frontend** was developed in **vanilla TypeScript**, communicating with a **backend** built using **Fastify, Node.js, and SQLite**. **Rigor, patience, and communication were key to delivering a reliable and functional product.**
 
-✉ **Let's stay in contact :**  jewu@student.42.fr 
+I have also worked as a **Project Manager**, coordinating between **different teams** and **managing priorities**.
+
+I am actively seeking opportunities where I can deepen my technical skills and contribute to **meaningful, concrete projects** across **forensics** or **full-stack applications**.
+
+✉ **You can reach me for further discussions:**  jewu@student.42.fr 
 
 </div>
 
@@ -24,6 +28,7 @@ Today I am actively seeking for opportunities in **Forensics** to deepen my expe
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 #### Tools
