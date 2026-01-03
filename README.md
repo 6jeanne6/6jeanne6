@@ -8,7 +8,7 @@ I enjoy **investigating complex issues and collaborating with others**, as I did
 
 At 42, I gained **hands-on experience through concrete projects**, using languages such as *C, C++, and Typescript*. This school's ecosystem constantly **pushes you to learn, adapt and think rigorously - both independently and in collaboration with your peers**.
 
-My latest **group project**, *ft_transcendence*, is a **full-stack web application** featuring multiple services, including a Pong game and a customizable user profile page. The **frontend** was developed in **vanilla TypeScript**, communicating with a **backend** built using **Fastify, Node.js, and SQLite**. **Rigor, patience, and communication were key to delivering a reliable and functional product.**
+My latest **group project**, *ft_transcendence*, is a **full-stack web application** that includes multiple services, such as a Pong game. I focused on **user profile customization**. The **frontend** was developed using **vanilla TypeScript**, which communicates with a **backend** built with **Fastify, Node.js, and SQLite**. **Rigor, patience, and communication were key to delivering a reliable and functional product.**
 
 I have also worked as a **Project Manager**, coordinating between **different teams** and **managing priorities**.
 
