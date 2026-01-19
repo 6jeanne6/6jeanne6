@@ -12,7 +12,7 @@ My latest **group project**, *ft_transcendence*, is a **full-stack web applicati
 
 I have also worked as a **Project Manager**, coordinating between **different teams** and **managing priorities**.
 
-I am actively seeking opportunities where I can deepen my technical skills and contribute to **meaningful, concrete projects** across **forensics** or **full-stack applications**.
+I am actively seeking opportunities where I can deepen my technical skills and contribute to **meaningful, concrete projects**.
 
 ✉ **You can reach me for further discussions:**  jewu@student.42.fr 
 
