@@ -2,7 +2,7 @@
 
 <div align="center"width="100%">
 
-Software Engineer student working on backend development, web applications and systems programming 
+Software Engineer student working on full-stack web applications and systems programming 
 
 Typescript • Node.js • C/C++ • Testing • Documentation
 
