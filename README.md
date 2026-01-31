@@ -4,7 +4,7 @@
 
 Software Engineer student working on full-stack web applications and systems programming 
 
-Typescript • Node.js • C/C++ • Testing • Documentation
+C/C++ • Typescript • Node.js • Testing • Documentation
 
 ✉ **You can reach me for further discussions:**  jewu@student.42.fr 
 
@@ -18,9 +18,9 @@ Typescript • Node.js • C/C++ • Testing • Documentation
 
 #### Languages
 
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Tools
 
